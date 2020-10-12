@@ -1,2 +1,1 @@
-# TinDog-Assignment
-Mock App Website assignment
+TinDog Starting Files
